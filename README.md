@@ -23,11 +23,11 @@ https://github.com/ileriayo/markdown-badges
 -->
 
 ## 👉😁 About Me
-- I am a developer who's currently rediscovering the joys of coding in the age of AI. 
-- I am currently employed as an Amazon Associate at an Amazon sortation facility, and I am looking for work.
-- My previous positions have been full stack development positions
-- I have a Bachelor's degree in Physics from 🐺 North Carolina State University 
-- I love math, science, art, gadgets, puzzles, and the brains that contemplate these things
+- ✨ I am a developer who's currently rediscovering the joys of coding in the age of AI. 
+- 🏭 I am currently employed as an Amazon Associate at an Amazon sortation facility, and I am looking for work.
+- 💻 My previous positions have been full stack development positions
+- 🎓 I have a Bachelor's degree in Physics from 🐺 North Carolina State University 
+- 💖 I love 🧮math, 🔎science, 🎨art, 🔩gadgets, 🧩puzzles, and the 🧠brains that contemplate these things
 
 ## ✍ What I'm working on 
 I am currently fleshing out a portfolio of what I can do. I'm hoping it will be an effective part of my resume. 
